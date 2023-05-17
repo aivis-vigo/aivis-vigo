@@ -10,7 +10,7 @@ I'm a skilled developer hailing from the beautiful country of Latvia. With a str
                                                                                                                                           
 ---
 
-My GitHub Stats
+<b>My GitHub Stats</b>:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aivis-vigo&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
