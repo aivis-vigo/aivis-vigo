@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm Aivis, a skilled developer hailing from the beautiful country of Latvia. With a strong passion for technologies, I find myself constantly immersed in the ever-evolving world of programming.
+I'm a skilled developer hailing from the beautiful country of Latvia. With a strong passion for technologies, I find myself constantly immersed in the ever-evolving world of programming.
 
 ---
 
