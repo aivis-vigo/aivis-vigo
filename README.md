@@ -10,4 +10,6 @@ Thank you for visiting my profile, and I look forward to connecting with you! ðŸ
 
 ðŸ§° Toolbox
 
+<img src="[https://cdn.worldvectorlogo.com/logos/javascript.svg](https://worldvectorlogo.com/logo/php-1)" alt="PHP Logo" width="50" height="50"/>
+
 ---
