@@ -4,7 +4,7 @@ I'm a skilled developer from Latvia. With a strong passion for technologies, I f
 
 The combination of staying up to date with the latest technologies, the thrill of a fast-paced work environment, and the opportunity to be part of a community of passionate individuals has fueled my desire to become a software developer. I'm driven by the constant push to enhance my abilities and create innovative solutions, making this field an ideal fit for me.
 
-What excites me the most about being a software developer is the fast-paced work environment. Technology is constantly evolving, and this industry demands quick adaptability and continuous learning. This fast-paced nature keeps me on my toes and challenges me to stay ahead of the curve, which I find incredibly stimulating.
+Technology is constantly evolving, and this industry demands quick adaptability and continuous learning. This fast-paced nature keeps me on my toes and challenges me to stay ahead of the curve, which I find incredibly stimulating.
 
 ---
 
