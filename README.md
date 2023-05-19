@@ -6,7 +6,7 @@ The combination of staying up to date with the latest technologies, the thrill o
 
 Technology is constantly evolving, and this industry demands quick adaptability and continuous learning. This fast-paced nature keeps me on my toes and challenges me to stay ahead of the curve, which I find incredibly stimulating.
 
-My latest projects:
+ &#128296 My latest projects:
 <li><a href="https://github.com/aivis-vigo/CartoonApi">TVNET:</a> Website for browsing placeholder news. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling</li>
 <li><a href="https://github.com/aivis-vigo/TVNET">Gif page:</a> Website for browsing gifs with search functionality, using GIPHY API. Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling.</li>
 ---
