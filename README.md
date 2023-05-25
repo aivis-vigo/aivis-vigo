@@ -3,7 +3,7 @@
 I'm a skilled developer from Latvia. With a strong passion for technologies, I find myself constantly immersed in the ever-evolving world of programming. 
 
  <p>&#128296 My latest projects:</p>
-<li><a href="https://github.com/aivis-vigo/CartoonApi">TVNET:</a> Website with fake news. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling</li>
+<li><a href="https://github.com/aivis-vigo/CartoonApi">TVNET:</a> Website with fake news. Implementation of MVC pattern, routing, cache system, interface, DI. Usage of Twig as template engine and Tailwind for styling</li>
 <li><a href="https://github.com/aivis-vigo/TVNET">Gif page:</a> Website for browsing gifs with search functionality, using GIPHY API. Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling.</li>
 
 ---
