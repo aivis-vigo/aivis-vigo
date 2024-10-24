@@ -1,6 +1,6 @@
 ### Hi there, I'm Aivis 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with expertise in **web development** and a keen interest in exploring new technologies and creating innovative solutions.
+I'm a passionate **Full Stack Developer** with expertise in **web development** and a keen interest in exploring new technologies and creating innovative solutions.
 
 ### 🛠️ Technologies & Tools I Work With
 - **Frontend:** JavaScript (ES6+), React.js, Angular, Tailwind CSS, HTML5, CSS3
