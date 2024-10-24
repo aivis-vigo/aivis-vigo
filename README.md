@@ -11,5 +11,5 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with exp
 ### 🌟 What I’ve Been Working On
 - 🏦 **Mini Internet Bank**: Developed a mini banking application using **Laravel** and **MySQL**. It allows users to open bank accounts, manage multiple credit cards, make transfers, and invest in cryptocurrencies.
 - 🛍️ **E-commerce Store**: Built an e-commerce platform with **React.js** (frontend) and **PHP** (backend), using **GraphQL** for efficient data communication. Features include persistent cart, inventory management, and item categorization.
-- 🏎️ **F1 Info Project**: Created an F1 information site using **Angular v18** with responsive navigation. It includes pages for **Seasons**, **Drivers**, and **Tracks**. Leveraged APIs to fetch driver data and country flags.
+- 🏎️ **F1 Info Project**: Created an F1 information site using **Angular v15** with responsive navigation. It includes pages for **Seasons**, **Drivers**, and **Tracks**. Leveraged APIs to fetch driver data and country flags.
 - 📋 **Task Manager**: Working on a **task manager project** using **Angular** with reactive forms for input validation and custom components for displaying validation messages.
