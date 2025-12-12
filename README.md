@@ -3,10 +3,10 @@
 I'm a passionate **Full Stack Developer** with expertise in **web development** and a keen interest in exploring new technologies and creating innovative solutions.
 
 ### 🛠️ Technologies & Tools I Work With
-- **Frontend:** JavaScript, React.js, Angular, Tailwind CSS, HTML5, CSS3
-- **Backend:** PHP (Laravel), Node.js
-- **Databases:** MySQL
-- **Other Tools:** SAP, GraphQL, Git, Docker, Figma, Swift, SwiftUI
+- **Frontend:** JavaScript + TypeScript, Vue.js, React.js, Angular, Tailwind CSS
+- **Backend:** PHP (Laravel), Node.js, Ruby
+- **Databases:** MySQL, MongoDB, Microsoft SQL Server, SAP HANA
+- **Other Tools:** REST API, GraphQL, Jira, Git, Postman, Docker, Figma, Swift, SwiftUI
 
 ### 🌟 What I’ve Been Working On
 - 🏦 **Mini Internet Bank**: Developed a mini banking application using **Laravel** and **MySQL**. It allows users to open bank accounts, manage multiple credit cards, make transfers, and invest in cryptocurrencies.
